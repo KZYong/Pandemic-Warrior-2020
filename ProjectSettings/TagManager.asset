@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - platform
+  - ScreenShake
+  - Enemy
+  - SpawnPoint
+  - Enemy2
+  - RANGE
+  - Enemy3
+  - SoundPlayer
+  - Enemy4
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - platform
+  - background
+  - post-processing
+  - Background
+  - Enemies
+  - Player
+  - Enemies2
+  - Enemies3
+  - Enemies4
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 3306331173
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Player
+    uniqueID: 2202600567
+    locked: 0
